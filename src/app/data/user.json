@@ -1,0 +1,10 @@
+{
+  "userOk": {
+    "email": "email@email.com",
+    "password": "123456789"
+  },
+  "userError": {
+    "email": "0x0x0x0x0x",
+    "password": "11111111111111111111111111111111"
+  }
+}
