@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/22c2ea53-26ab-4886-8e04-59a444fb380d/resourceGroups/Spotify-angularJS/providers/Microsoft.Web/sites/spotify-angularJS",
+    "appService.deploySubpath": "dist"
+}
